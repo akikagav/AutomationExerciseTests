@@ -1,0 +1,62 @@
+[
+  {
+  "email": "test2025@gmail.com",
+  "password": "password2025",
+  "name": "testUser2025",
+  "title": "MALE",
+  "dayId": 10,
+  "monthId": 4,
+  "yearId": 10,
+  "signUpForNewsletter": true,
+  "receiveForOffers": true,
+  "firstName": "Test",
+  "lastName": "User",
+  "company": "Company",
+  "address1": "Address 1",
+  "address2": "Address 2",
+  "countryId": 1,
+  "state": "State",
+  "city": "City",
+  "zipcode": "0056",
+  "mobileNumber": "+37495311125",
+  "products": [1, 6, 8],
+  "checkoutMessage": "Description 1",
+  "cart": {
+    "cartName": "Test Name 1",
+    "cartNumber":  "1234567800045678",
+    "cvc":  "795",
+    "expiryMonth":  "1",
+    "expiryYear":  "1997"
+  }
+  },
+  {
+    "email": "test2026@gmail.com.com",
+    "password": "password2026",
+    "name": "testUser2026",
+    "title": "FEMALE",
+    "dayId": 1,
+    "monthId": 5,
+    "yearId": 18,
+    "signUpForNewsletter": false,
+    "receiveForOffers": false,
+    "firstName": "2023",
+    "lastName": "2023",
+    "company": "2023",
+    "address1": "Address 1",
+    "address2": "Address 2",
+    "countryId": 1,
+    "state": "State",
+    "city": "City",
+    "zipcode": "0056",
+    "mobileNumber": "+37495311125",
+    "products": [2, 5],
+    "checkoutMessage": "Description 2",
+    "cart": {
+      "cartName": "Test Name",
+      "cartNumber":  "1234567892345678",
+      "cvc":  "765",
+      "expiryMonth":  "10",
+      "expiryYear":  "1990"
+    }
+  }
+]
